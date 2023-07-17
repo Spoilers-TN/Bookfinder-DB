@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "645bb72cacdfb623208c84eb"
+  },
+  "id": null,
+  "User_ID": "Generic-UserID",
+  "User_UUID": "Generic-UserUUID",
+  "User_School_Domain": "gmail.com",
+  "User_Name": "Mario",
+  "User_Surname": "Rossi",
+  "User_Biog": "",
+  "User_Photo": "https://www.gravatar.com/avatar/000",
+  "User_Email": "rossi.mario@gmail.com",
+  "User_FullName": "Mario Rossi",
+  "User_GSuite": false
+},{
+  "_id": {
+    "$oid": "64a3de7ee043840d2d3a0d77"
+  },
+  "id": null,
+  "User_ID": "102450206273657468287",
+  "User_UUID": "3fc1ae7e-a2a5-4458-bf16-5d993ab399b2",
+  "User_School_Domain": "gmail.com",
+  "User_Name": "Marco",
+  "User_Surname": "Del Fiol",
+  "User_Biog": "",
+  "User_Photo": "https://www.gravatar.com/avatar/ec4539e63418264fff547b8c182785da",
+  "User_Email": "marco.delfiol05@gmail.com",
+  "User_FullName": "Marco Del Fiol",
+  "User_GSuite": false
+}]

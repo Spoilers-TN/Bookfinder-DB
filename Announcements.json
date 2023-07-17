@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "647b016f1836bb56d4175737"
+  },
+  "id": null,
+  "Announcement_ID": "2267a2c9-19c7-4ad4-984e-0b18789541f9",
+  "Announcement_User": "Generic-UserID",
+  "Announcement_Book": {
+    "$numberLong": "9788836003365"
+  },
+  "Announcement_Publish_Date": "2023-06-03",
+  "Announcement_Expire_Date": "2023-07-03",
+  "Announcement_Status": "Published",
+  "Announcement_Price": 567,
+  "Announcement_Book_Status": "Discreto stato",
+  "Announcement_Description": "Prova",
+  "Announcement_Ebook": false
+}]

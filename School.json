@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "630deab360312505afd33b37"
+  },
+  "School_City": "Trento",
+  "School_Code": "TNTF01301D",
+  "School_Domain": "buonarroti.tn.it",
+  "School_Name": "ITT \"M. Buonarroti\"",
+  "School_Region": "Trentino",
+  "School_Type": "Istituto Tecnico Tecnologico"
+},{
+  "_id": {
+    "$oid": "630e5c08f8cade72e988b939"
+  },
+  "School_City": "Trento",
+  "School_Code": "TNPM01000X",
+  "School_Domain": "rosmini.eu",
+  "School_Name": "ANTONIO ROSMINI",
+  "School_Region": "Trentino Alto Adige",
+  "School_Type": "EX ISTITUTO MAGISTRALE"
+},{
+  "_id": {
+    "$oid": "630e5c08f8cade72e988b93a"
+  },
+  "School_City": "Trento",
+  "School_Code": "TNPC04000G",
+  "School_Domain": "liceoprati.it",
+  "School_Name": "Liceo Classico Ginnasio \"G. Prati\"",
+  "School_Region": "Trentino Alto Adige",
+  "School_Type": "LICEO CLASSICO"
+},{
+  "_id": {
+    "$oid": "630e5c08f8cade72e988b941"
+  },
+  "School_City": "Trento",
+  "School_Code": "TNPS02000D",
+  "School_Domain": "liceodavincitn.it",
+  "School_Name": "Liceo Scientifico \"L. Davinci\"",
+  "School_Region": "Trentino Alto Adige",
+  "School_Type": "LICEO SCIENTIFICO"
+},{
+  "_id": {
+    "$oid": "630e5c08f8cade72e988b93f"
+  },
+  "School_City": "Trento",
+  "School_Code": "TNPS01000V",
+  "School_Domain": "lsgalilei.org",
+  "School_Name": "Liceo Scientifico \"G. Galilei\"",
+  "School_Region": "Trentino Alto Adige",
+  "School_Type": "LICEO SCIENTIFICO"
+},{
+  "_id": {
+    "$oid": "630e5c08f8cade72e988b943"
+  },
+  "School_City": "Trento",
+  "School_Code": "TNPS11000Q",
+  "School_Domain": "linguisticotrento.it",
+  "School_Name": "Liceo Linguistico \"M. Scholl\"",
+  "School_Region": "Trentino Alto Adige",
+  "School_Type": "LICEO SCIENTIFICO"
+},{
+  "_id": {
+    "$oid": "630e5c08f8cade72e988b93c"
+  },
+  "School_City": "Trento",
+  "School_Code": "TNTD37500F",
+  "School_Domain": "arcivescoviletrento.it",
+  "School_Name": "Istituto Collegio Arcivescovile \"C. Endrici\"",
+  "School_Region": "Trentino Alto Adige",
+  "School_Type": "IST.  TECNICO COMMERCIALE"
+},{
+  "_id": {
+    "$oid": "630e5c08f8cade72e988b940"
+  },
+  "School_City": "Trento",
+  "School_Code": "TNPM015003",
+  "School_Domain": "istitutosacrocuore.it",
+  "School_Name": "Istituto Sacro Cuore",
+  "School_Region": "Trentino Alto Adige",
+  "School_Type": "EX ISTITUTO MAGISTRALE"
+}]

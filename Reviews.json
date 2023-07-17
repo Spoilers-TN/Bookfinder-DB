@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "631baf5630ca954216ff933b"
+  },
+  "Review_ID": "064e68ca-b98a-4953-a2c6-e57c632580e1",
+  "Review_Message": "Se ni’ mondo esistesse un po’ di bene\ne ognun si honsiderasse suo fratello\nci sarebbe meno pensieri e meno pene\ne il mondo ne sarebbe assai più bello",
+  "Review_Recipient": "Generic-UUID",
+  "Review_Sender": "Generic-UUID",
+  "Review_Sender_Name": "Name",
+  "Review_Sender_Photo": "https://www.gravatar.com/avatar/000",
+  "Review_Title": "Example",
+  "id": null
+}]
